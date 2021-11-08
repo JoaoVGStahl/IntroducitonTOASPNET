@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wYqHTp7aAGyBlskeAXOekABokkhaMv7A4NoUPd1YPOLKIMxhUfYRZqxJdZqV7h+t29MwGVHHDeJutK4IOvhaBg==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\VisualStudio\\ASPNET\\MinhaAppVSCode\\MinhaAppVSCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jvito\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Jvito\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Jvito\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
